@@ -1,5 +1,7 @@
 ## 客户关系管理系统
 
+此项目是经过[malizhi](https://github.com/malizhigithub) 的项目修改之后得到的,用于学习使用,感谢malizhi,[源项目地址](https://github.com/malizhigithub/CRM) <br />
+此项目由NFteam二次维护
 - 系统开发环境以及版本
   - 操作系统： Windows_7
   - 集成开发工具： Eclipse EE_4.7
@@ -52,6 +54,3 @@
 ![](https://malizhi-blog-1252037601.cos.ap-guangzhou.myqcloud.com/crm-README/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.png)
   - 销售管理
 ![](https://malizhi-blog-1252037601.cos.ap-guangzhou.myqcloud.com/crm-README/%E9%94%80%E5%94%AE%E7%AE%A1%E7%90%86.png)
-
-
-此项目是经过[malizhi](https://github.com/malizhigithub) 的项目修改之后得到的,用于学习使用,感谢malizhi,[源项目地址](https://github.com/malizhigithub/CRM)
